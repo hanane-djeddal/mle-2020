@@ -4,7 +4,7 @@
 Please find in INTERN_VERSION_Project_internship_mle the edited jupyter notebook.
 
 
-contant_based_filtering/helpers contains defined .py file for tools used during the test.
+content_based_filtering/helpers contains defined .py file for tools used during the test.
 
 ## Introduction
 
